@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="ExportXLtoSPList_WP" List="113" Url="_catalogs/wp">
+    <File Path="ExportXLtoSPList_WP\ExportXLtoSPList_WP.webpart" Url="ExportXLtoSPList_ExportXLtoSPList_WP.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>

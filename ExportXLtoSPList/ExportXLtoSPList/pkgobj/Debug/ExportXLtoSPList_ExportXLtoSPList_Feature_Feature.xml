@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="d8dbef62-f46c-43ad-a07c-3cc70d973d0a" Scope="Site" Title="ExportXLtoSPList Feature1">
+  <ElementManifests>
+    <ElementManifest Location="ExportXLtoSPList_WP\Elements.xml" />
+    <ElementFile Location="ExportXLtoSPList_WP\ExportXLtoSPList_WP.webpart" />
+  </ElementManifests>
+</Feature>

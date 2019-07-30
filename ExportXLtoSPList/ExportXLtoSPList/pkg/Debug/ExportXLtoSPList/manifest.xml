@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="2976b223-6c57-46fb-878c-08079e826c92" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="ExportXLtoSPList.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ExportXLtoSPList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0f6917113455e0a1" Namespace="ExportXLtoSPList.Widgets.ExportXLtoSPList_WP" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\ExportXLtoSPList\css\main.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="ExportXLtoSPList_ExportXLtoSPList_Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="2976b223-6c57-46fb-878c-08079e826c92" solutionId="2976b223-6c57-46fb-878c-08079e826c92" resetWebServer="false" sharePointProductVersion="15.0" name="ExportXLtoSPList" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="eb7d2651-edb3-46f4-ab65-2a9a121dc1b6" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="67858073-30f1-45cd-8fca-08d512c8f273" />
+  </projectItems>
+</package>
